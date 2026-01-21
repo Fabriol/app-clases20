@@ -2,10 +2,11 @@
 
 # Descripcion corta del proyecto Sitio web para la boutique Zara con el fin de promocionar sus nuevos locales.
 
-# Tecnologías
+# Sitio Zara
 
-Vite
+Sitio web para la boutique Zara con el fin de promocionar sus nuevos locales.
 
-Tailwind
-
-Flowbitegit config
+## Tecnologías utilizadas
+* **Vite**
+* **Tailwind CSS**
+* **Flowbite**
